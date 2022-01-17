@@ -10,10 +10,22 @@ h1 {
 }
 
 
+#one {
+	background-color: yellow;
+}
+
+#two {
+	background-color: indianred;
+	color: white;
+}
+
+#three {
+	background-color: hotpink;
+}
+
 .right-text {
 	position: relative;
 	left: 75%;
-	background-color: indianred;
 	height: 20%;
 	padding-top: 2.5%;
 	padding-bottom: 2.5%;
